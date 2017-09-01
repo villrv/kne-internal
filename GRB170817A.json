@@ -1,2 +1,14 @@
 {
+	"GRB170817A":{
+		"name":"GRB170817A",
+		"sources":{
+			"name":"HST DDT",
+			"url":"http://www.stsci.edu/ops/program-lists/HST-DD.html"
+		},
+		"ra":{
+			"value":"13:09:48.09"
+		},
+		"dec":{
+			"value":"-23:22:53.35"
+		}
 }
