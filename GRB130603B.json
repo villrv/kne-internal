@@ -20,6 +20,36 @@
 			{
 				"value":"+17:04:16.9"
 			}
+		],
+		"redshift":[
+			{
+				"value":"0.356"
+			}
+		],
+		"photometry":[
+			{
+				"time":"56456.03",
+				"magnitude":"27.7",
+				"e_magnitude":"0.2",
+				"instrument":"WFC3",
+				"band":"F606W",
+				"upperlimit":true
+			},
+			{
+				"time":"56456.15",
+				"magnitude":"25.8",
+				"e_magnitude":"0.2",
+				"instrument":"WFC3",
+				"band":"F160W"
+			},
+			{
+				"time":"56476.23",
+				"magnitude":"26.4",
+				"e_magnitude":"0.2",
+				"instrument":"WFC3",
+				"band":"F606W",
+				"upperlimit":true
+			}
 		]
 	}
 }
