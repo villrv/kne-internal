@@ -1,6 +1,6 @@
 {
-	"GRB 050709":{
-		"name":"GRB 050709",
+	"GRB050709":{
+		"name":"GRB050709",
 		"sources":[
 			{
 				"bibcode":"2016NatCo...712898J",
@@ -9,7 +9,7 @@
 		],
 		"alias":[
 			{
-				"value":"GRB 050709",
+				"value":"GRB050709",
 				"source":"1"
 			}
 		],
