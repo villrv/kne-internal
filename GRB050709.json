@@ -5,12 +5,35 @@
 			{
 				"bibcode":"2016NatCo...712898J",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2005Natur.437..859H",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"GRB050709",
 				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"23:01:26.957",
+				"e_value":"0.25",
+				"source":"2"
+			}
+		],
+		"dec":[
+			{
+				"value":"-38:58:39.76",
+				"e_value":"0.25",
+				"source":"2"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.16"
 			}
 		],
 		"photometry":[
