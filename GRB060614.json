@@ -5,11 +5,33 @@
 			{
 				"bibcode":"2015NatCo...6E7323Y",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2009ApJ...690..163R",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"GRB060614",
+				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"21:23:32.140",
+				"source":"2"
+			}
+		],
+		"dec":[
+			{
+				"value":"-53:01:36.10",
+				"source":"2"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.125",
 				"source":"1"
 			}
 		],
