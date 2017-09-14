@@ -1,0 +1,199 @@
+{
+	"GRB080503":{
+		"name":"GRB080503",
+		"sources":[
+			{
+				"bibcode":"2009ApJ...696.1871P",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"GRB080503",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"54589.51976602",
+				"band":"white",
+				"instrument":"Swift UVOT",
+				"magnitude":"20",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54589.55903602",
+				"band":"r",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"25.80",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54589.56736602",
+				"band":"g",
+				"e_magnitude":"0.24",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"26.76",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54589.56945602",
+				"band":"B",
+				"instrument":"Keck I LRIS",
+				"magnitude":"26.00",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54589.57278602",
+				"band":"R",
+				"instrument":"Keck I LRIS",
+				"magnitude":"25.60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54589.58070602",
+				"band":"r",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"26.80",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54589.59403602",
+				"band":"i",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"26.80",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54589.60820602",
+				"band":"z",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"26.00",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54589.61945602",
+				"band":"g",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"24.60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54590.60153602",
+				"band":"r",
+				"e_magnitude":"0.16",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"25.48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54591.49320602",
+				"band":"r",
+				"e_magnitude":"0.19",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"25.65",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54591.60987602",
+				"band":"g",
+				"e_magnitude":"0.26",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"26.48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54592.60153602",
+				"band":"r",
+				"e_magnitude":"0.31",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"25.90",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54593.56403602",
+				"band":"r",
+				"e_magnitude":"0.23",
+				"instrument":"Gemini-N GMOS",
+				"magnitude":"26.27",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54594.72653602",
+				"band":"Ks",
+				"instrument":"Gemini-N NIRI",
+				"magnitude":"22.47",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54594.87653602",
+				"band":"F450W",
+				"instrument":"HST WFPC2",
+				"magnitude":"26.9",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54594.87653602",
+				"band":"F606W",
+				"e_magnitude":"0.20",
+				"instrument":"HST WFPC2",
+				"magnitude":"27.01",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54594.87653602",
+				"band":"F814W",
+				"instrument":"HST WFPC2",
+				"magnitude":"26.8",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54598.64737602",
+				"band":"F606W",
+				"instrument":"HST WFPC2",
+				"magnitude":"28.0",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"54598.64737602",
+				"band":"F814W",
+				"instrument":"HST WFPC2",
+				"magnitude":"27.1",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			}
+		]
+	}
+}
