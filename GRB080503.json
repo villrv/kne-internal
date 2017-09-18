@@ -5,12 +5,30 @@
 			{
 				"bibcode":"2009ApJ...696.1871P",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2008GCN..7678....1P",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"GRB080503",
 				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"19:06:28.766",
+				"e_value":"0.25",
+				"source":"2"
+			}
+		],
+		"dec":[
+			{
+				"value":"+68:47:35.53",
+				"e_value":"0.25",
+				"source":"2"
 			}
 		],
 		"photometry":[
