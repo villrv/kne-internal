@@ -7,6 +7,11 @@
 				"url":"http://www.stsci.edu/ops/program-lists/HST-DD.html"
 			}
 		],
+		"alias":[
+			{
+				"value":"GRB170817A"
+			}
+		],
 		"ra":[
 			{
 				"value":"13:09:48.09"
