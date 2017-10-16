@@ -10,6 +10,10 @@
 			{
 				"name":"Soares-Santos et al. 2017",
 				"alias":"2"
+			},
+			{
+				"name":"Abbott et al. 2017",
+				"alias":"3"
 			}
 		],
 		"alias":[
@@ -44,12 +48,16 @@
 		],
 		"primarymass":[
 			{
-				"value":"?"
+				"value":"1.81",
+				"e_value":"0.45",
+				"source":"3"
 			}
 		],
 		"secondarymass":[
 			{
-				"value":"?"
+				"value":"1.11",
+				"e_value":"0.25",
+				"source":"3"
 			}
 		],
 		"claimedtype":[
