@@ -4,30 +4,42 @@
 		"sources":[
 			{
 				"name":"LIGO Detections",
-				"url":"http://www.ligo.org/detections/"
+				"url":"http://www.ligo.org/detections/",
+				"alias":"1"
+			},
+			{
+				"name":"Soares-Santos et al. 2017",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
-				"value":"GRB170817A"
+				"value":"GRB170817A",
+				"source":"1"
 			},
 			{
-				"value":"GW170817"
+				"value":"GW170817",
+				"source":"1"
 			},
 			{
-				"value":"GW170817A"
+				"value":"GW170817A",
+				"source":"1"
 			},
 			{
-				"value":"SSS17A"
+				"value":"SSS17A",
+				"source":"1"
 			},
 			{
-				"value":"AT2017gfo"
+				"value":"AT2017gfo",
+				"source":"1"
 			},
 			{
-				"value":"DLT17ck"
+				"value":"DLT17ck",
+				"source":"1"
 			},
 			{
-				"value":"PS17egl"
+				"value":"PS17egl",
+				"source":"1"
 			}
 		],
 		"primarymass":[
@@ -42,7 +54,20 @@
 		],
 		"claimedtype":[
 			{
-				"value":"NS + NS"
+				"value":"NS + NS",
+				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"13:09:48.09",
+				"source":"2"
+			}
+		],
+		"dec":[
+			{
+				"value":"-23:22:53.38",
+				"source":"2"
 			}
 		]
 	}
