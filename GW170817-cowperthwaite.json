@@ -556,9 +556,10 @@
 			},
 			{
 				"time":"57992.2819",
-				"band":"J",
+				"band":"F110W",
 				"e_magnitude":"0.04",
-				"instrument":"HST",
+				"telescope":"HST",
+				"instrument":"WFC3_IR"
 				"magnitude":"20.5723",
 				"system":"AB",
 				"u_time":"MJD",
@@ -566,9 +567,10 @@
 			},
 			{
 				"time":"57992.2965",
-				"band":"H",
+				"band":"F160W",
 				"e_magnitude":"0.04",
-				"instrument":"HST",
+				"telescope":"HST",
+				"instrument":"WFC3_IR"
 				"magnitude":"19.886300000000002",
 				"system":"AB",
 				"u_time":"MJD",
@@ -576,9 +578,10 @@
 			},
 			{
 				"time":"57992.3478",
-				"band":"u",
+				"band":"F336W",
 				"e_magnitude":"0.27",
-				"instrument":"HST",
+				"telescope":"HST",
+				"instrument":"WFC3_UVIS1"
 				"magnitude":"26.918000000000003",
 				"system":"AB",
 				"u_time":"MJD",
@@ -586,9 +589,10 @@
 			},
 			{
 				"time":"57992.4335",
-				"band":"g",
+				"band":"F475W",
 				"e_magnitude":"0.06",
-				"instrument":"HST",
+				"telescope":"HST",
+				"instrument":"ACS_WFC"
 				"magnitude":"23.955",
 				"system":"AB",
 				"u_time":"MJD",
@@ -596,9 +600,10 @@
 			},
 			{
 				"time":"57992.498",
-				"band":"r",
+				"band":"F625W",
 				"e_magnitude":"0.07",
-				"instrument":"HST",
+				"telescope":"HST",
+				"instrument":"ACS_WFC"
 				"magnitude":"22.883000000000003",
 				"system":"AB",
 				"u_time":"MJD",
@@ -606,9 +611,10 @@
 			},
 			{
 				"time":"57992.5606",
-				"band":"i",
+				"band":"F775W",
 				"e_magnitude":"0.08",
-				"instrument":"HST",
+				"telescope":"HST",
+				"instrument":"ACS_WFC"
 				"magnitude":"22.346",
 				"system":"AB",
 				"u_time":"MJD",
@@ -616,9 +622,10 @@
 			},
 			{
 				"time":"57992.5732",
-				"band":"z",
+				"band":"F850W",
 				"e_magnitude":"0.05",
-				"instrument":"HST",
+				"telescope":"HST",
+				"instrument":"ACS_WFC"
 				"magnitude":"21.527",
 				"system":"AB",
 				"u_time":"MJD",
