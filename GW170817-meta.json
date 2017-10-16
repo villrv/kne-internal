@@ -1,0 +1,49 @@
+{
+	"GW170817":{
+		"name":"GW170817",
+		"sources":[
+			{
+				"name":"LIGO Detections",
+				"url":"http://www.ligo.org/detections/"
+			}
+		],
+		"alias":[
+			{
+				"value":"GRB170817A"
+			},
+			{
+				"value":"GW170817"
+			},
+			{
+				"value":"GW170817A"
+			},
+			{
+				"value":"SSS17A"
+			},
+			{
+				"value":"AT2017gfo"
+			},
+			{
+				"value":"DLT17ck"
+			},
+			{
+				"value":"PS17egl"
+			}
+		],
+		"primarymass":[
+			{
+				"value":"?"
+			}
+		],
+		"secondarymass":[
+			{
+				"value":"?"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"NS + NS"
+			}
+		]
+	}
+}
