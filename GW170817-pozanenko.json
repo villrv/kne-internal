@@ -16,7 +16,8 @@
 		"photometry":[
 			{
 				"time":"57984.97954861",
-				"band":"R",
+				"band":"r",
+				"system":"AB",
 				"e_magnitude":"0.06",
 				"magnitude":"19.12",
 				"telescope":"RC-1000",
@@ -25,7 +26,8 @@
 			},
 			{
 				"time":"57985.97302083",
-				"band":"R",
+				"band":"r",
+				"system":"AB",
 				"e_magnitude":"0.08",
 				"magnitude":"20.04",
 				"telescope":"RC-1000",
@@ -43,7 +45,8 @@
 			},
 			{
 				"time":"57989.99559028",
-				"band":"R",
+				"band":"r",
+				"system":"AB",
 				"magnitude":"21.0",
 				"telescope":"RC-1000",
 				"u_time":"MJD",
