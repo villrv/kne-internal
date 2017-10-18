@@ -334,6 +334,17 @@
 				"source":"1"
 			},
 			{
+				"time":"57991.01",
+				"band":"B",
+				"e_magnitude":"0.363",
+				"instrument":"FORS2",
+				"magnitude":"24.581",
+				"system":"AB",
+				"telescope":"VLT",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
 				"time":"57989.02",
 				"band":"V",
 				"e_magnitude":"0.158",
