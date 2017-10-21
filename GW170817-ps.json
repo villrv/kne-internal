@@ -11,6 +11,10 @@
 			{
 				"value":"GW170817",
 				"source":"1"
+			},
+			{
+				"value":"PS17egl",
+				"source":"1"
 			}
 		],
 		"photometry":[
