@@ -26,6 +26,12 @@
 			{
 				"value":"NGC 4993"
 			}
+		],
+		"timeofmerger":[
+			{
+				"value":"57982.528519",
+				"u_value":"MJD"
+			}
 		]
 	}
 }
