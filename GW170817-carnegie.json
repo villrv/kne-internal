@@ -5,6 +5,10 @@
 			{
 				"bibcode":"2017arXiv171005443D",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2017arXiv171005437E",
+				"alias":"2"
 			}
 		],
 		"alias":[
@@ -138,7 +142,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457983.6610",
@@ -150,7 +154,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457983.6670",
@@ -161,7 +165,7 @@
 				"magnitude":"18.16",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457983.6690",
@@ -173,7 +177,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457984.0100",
@@ -184,7 +188,7 @@
 				"magnitude":"18.87",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457984.0640",
@@ -196,7 +200,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457984.0680",
@@ -208,7 +212,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457984.0720",
@@ -219,7 +223,7 @@
 				"magnitude":"19.00",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457984.0730",
@@ -231,7 +235,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457984.4640",
@@ -463,7 +467,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457984.5300",
@@ -474,7 +478,7 @@
 				"magnitude":"20.32",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457984.5342",
@@ -585,7 +589,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457985.2730",
@@ -597,7 +601,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457985.3160",
@@ -608,7 +612,7 @@
 				"magnitude":"20.63",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457985.4620",
@@ -642,7 +646,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457985.4714",
@@ -752,7 +756,7 @@
 				"magnitude":"20.55",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457985.8540",
@@ -764,7 +768,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457985.8620",
@@ -776,7 +780,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457985.9290",
@@ -788,7 +792,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457986.4687",
@@ -909,7 +913,7 @@
 				"magnitude":"20.94",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457986.5930",
@@ -921,7 +925,7 @@
 				"system":"AB",
 				"telescope":"Swift",
 				"u_time":"JD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"2457987.4885",
