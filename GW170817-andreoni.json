@@ -160,7 +160,7 @@
 			{
 				"time":"57987.38150463",
 				"band":"r",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"20.51",
 				"system":"AB",
@@ -171,7 +171,7 @@
 			{
 				"time":"57987.38291667",
 				"band":"g",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"20.60",
 				"system":"AB",
@@ -182,7 +182,7 @@
 			{
 				"time":"57987.39453704",
 				"band":"r",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"20.47",
 				"system":"AB",
@@ -193,7 +193,7 @@
 			{
 				"time":"57987.39592593",
 				"band":"g",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"20.66",
 				"system":"AB",
@@ -215,7 +215,7 @@
 			{
 				"time":"57988.48055556",
 				"band":"r",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"zadko",
 				"magnitude":"20.6",
 				"system":"AB",
@@ -226,7 +226,7 @@
 			{
 				"time":"57993.38695602",
 				"band":"r",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"19.36",
 				"system":"AB",
@@ -237,7 +237,7 @@
 			{
 				"time":"57993.38834491",
 				"band":"g",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"19.53",
 				"system":"AB",
@@ -248,7 +248,7 @@
 			{
 				"time":"57993.39990741",
 				"band":"r",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"19.39",
 				"system":"AB",
@@ -259,7 +259,7 @@
 			{
 				"time":"57993.40130787",
 				"band":"g",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"19.50",
 				"system":"AB",
@@ -270,7 +270,7 @@
 			{
 				"time":"57995.38811343",
 				"band":"g",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"19.36",
 				"system":"AB",
@@ -281,7 +281,7 @@
 			{
 				"time":"57995.38949074",
 				"band":"r",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"19.32",
 				"system":"AB",
@@ -292,7 +292,7 @@
 			{
 				"time":"57995.40107639",
 				"band":"g",
-				"upper_limit":true,
+				"upperlimit":true,
 				"instrument":"skymapper",
 				"magnitude":"19.24",
 				"system":"AB",
