@@ -5,6 +5,10 @@
 			{
 				"bibcode":"2017arXiv171005462H",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2017arXiv171011576V",
+				"alias":"2"
 			}
 		],
 		"alias":[
@@ -19,33 +23,33 @@
 				"band":"i",
 				"e_magnitude":"0.13",
 				"instrument":"AST3-2",
-				"magnitude":"17.23",
+				"magnitude":"17.14",
 				"system":"AB",
 				"telescope":"AST3-2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"57983.59437840",
 				"band":"i",
 				"e_magnitude":"0.07",
 				"instrument":"AST3-2",
-				"magnitude":"17.61",
+				"magnitude":"17.48",
 				"system":"AB",
 				"telescope":"AST3-2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"57983.62518802",
 				"band":"i",
 				"e_magnitude":"0.09",
 				"instrument":"AST3-2",
-				"magnitude":"17.72",
+				"magnitude":"17.58",
 				"system":"AB",
 				"telescope":"AST3-2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"57985.67184848",
