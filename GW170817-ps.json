@@ -5,6 +5,10 @@
 			{
 				"bibcode":"2017arXiv171005841S",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2017arXiv171011576V",
+				"alias":"2"
 			}
 		],
 		"alias":[
@@ -89,10 +93,10 @@
 				"e_magnitude":"0.15",
 				"instrument":"GROND",
 				"telescope":"LaSilla",
-				"magnitude":"18.14",
+				"magnitude":"17.85",
 				"system":"AB",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"57983.96875",
@@ -221,10 +225,10 @@
 				"e_magnitude":"0.10",
 				"instrument":"GROND",
 				"telescope":"LaSilla",
-				"magnitude":"17.90",
+				"magnitude":"17.66",
 				"system":"AB",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"57984.96892",
@@ -465,10 +469,10 @@
 				"e_magnitude":"0.11",
 				"instrument":"GROND",
 				"telescope":"LaSilla",
-				"magnitude":"17.74",
+				"magnitude":"17.53",
 				"system":"AB",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"57986.97426",
@@ -576,10 +580,10 @@
 				"e_magnitude":"0.12",
 				"instrument":"GROND",
 				"telescope":"LaSilla",
-				"magnitude":"18.40",
+				"magnitude":"18.04",
 				"system":"AB",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"57989.98317",
@@ -669,10 +673,10 @@
 				"e_magnitude":"0.16",
 				"instrument":"GROND",
 				"telescope":"LaSilla",
-				"magnitude":"18.86",
+				"magnitude":"18.35",
 				"system":"AB",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"57990.96775",
@@ -798,10 +802,10 @@
 				"e_magnitude":"0.20",
 				"instrument":"GROND",
 				"telescope":"LaSilla",
-				"magnitude":"19.03",
+				"magnitude":"18.46",
 				"system":"AB",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"57992.97527",
@@ -831,10 +835,10 @@
 				"e_magnitude":"0.22",
 				"instrument":"GROND",
 				"telescope":"LaSilla",
-				"magnitude":"19.50",
+				"magnitude":"18.71",
 				"system":"AB",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"57993.96019",
