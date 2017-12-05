@@ -945,6 +945,105 @@
 				"system":"AB",
 				"u_time":"JD",
 				"source":"1"
+			},
+			{
+				"time":"2457987.4710",
+				"band":"Y",
+				"e_magnitude":"0.02",
+				"instrument":"RetroCam",
+				"telescope":"du Pont",
+				"magnitude":"18.08",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"1"
+			},
+			{
+				"time":"2457987.4830",
+				"band":"H",
+				"e_magnitude":"0.02",
+				"instrument":"RetroCam",
+				"telescope":"du Pont",
+				"magnitude":"17.83",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"1"
+			},
+			{
+				"time":"2457987.4980",
+				"band":"J",
+				"e_magnitude":"0.02",
+				"instrument":"RetroCam",
+				"telescope":"du Pont",
+				"magnitude":"18.10",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"1"
+			},
+			{
+				"time":"2457988.5000",
+				"band":"Y",
+				"e_magnitude":"0.10",
+				"instrument":"RetroCam",
+				"telescope":"du Pont",
+				"magnitude":"18.33",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"1"
+			},
+			{
+				"time":"2457988.5000",
+				"band":"H",
+				"e_magnitude":"0.20",
+				"instrument":"RetroCam",
+				"telescope":"du Pont",
+				"magnitude":"17.84",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"1"
+			},
+			{
+				"time":"2457990.4900",
+				"band":"J",
+				"e_magnitude":"0.04",
+				"instrument":"RetroCam",
+				"telescope":"du Pont",
+				"magnitude":"18.99",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"1"
+			},
+			{
+				"time":"2457991.5000",
+				"band":"J",
+				"e_magnitude":"0.10",
+				"instrument":"RetroCam",
+				"telescope":"du Pont",
+				"magnitude":"19.30",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"1"
+			},
+			{
+				"time":"2457992.4700",
+				"band":"H",
+				"e_magnitude":"0.05",
+				"instrument":"RetroCam",
+				"telescope":"du Pont",
+				"magnitude":"19.21",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"1"
+			},
+			{
+				"time":"2457993.4840",
+				"band":"H",
+				"e_magnitude":"0.09",
+				"instrument":"RetroCam",
+				"telescope":"du Pont",
+				"magnitude":"19.34",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"1"
 			}
 		]
 	}
