@@ -33,7 +33,8 @@
 		],
 		"claimedtype":[
 			{
-				"value":"Kilonova?"
+				"value":"Kilonova?",
+				"source":"1"
 			}
 		],
 		"redshift":[
