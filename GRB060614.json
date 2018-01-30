@@ -29,6 +29,11 @@
 				"source":"2"
 			}
 		],
+		"claimedtype":[
+			{
+				"value":"Kilonova?"
+			}
+		],
 		"redshift":[
 			{
 				"value":"0.125",
