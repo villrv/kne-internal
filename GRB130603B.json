@@ -26,6 +26,12 @@
 				"value":"0.356"
 			}
 		],
+		"claimedtype":[
+			{
+				"value":"Kilonova?",
+				"source":"1"
+			}
+		],
 		"photometry":[
 			{
 				"time":"56446.66718981",

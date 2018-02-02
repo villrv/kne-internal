@@ -31,6 +31,12 @@
 				"source":"2"
 			}
 		],
+		"claimedtype":[
+			{
+				"value":"Kilonova?",
+				"source":"1"
+			}
+		],
 		"redshift":[
 			{
 				"value":"0.16"
