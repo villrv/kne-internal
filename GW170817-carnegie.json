@@ -9,6 +9,10 @@
 			{
 				"bibcode":"2017arXiv171005452C",
 				"alias":"2"
+			},
+			{
+				"bibcode":"2017Sci...358.1574S",
+				"alias":"3"
 			}
 		],
 		"alias":[
@@ -69,13 +73,14 @@
 			{
 				"time":"2457983.5000",
 				"band":"r",
-				"e_magnitude":"0.02",
+				"e_upper_magnitude":"0.02",
+				"e_lower_magnitude":"0.01",
 				"telescope":"Magellan",
 				"instrument":"LDSS",
 				"magnitude":"17.33",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"3"
 			},
 			{
 				"time":"2457983.5000",
@@ -86,7 +91,7 @@
 				"magnitude":"17.67",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"3"
 			},
 			{
 				"time":"2457983.5057",
@@ -97,7 +102,7 @@
 				"magnitude":"17.41",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"3"
 			},
 			{
 				"time":"2457983.5106",
@@ -119,7 +124,7 @@
 				"magnitude":"17.39",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"3"
 			},
 			{
 				"time":"2457983.5300",
@@ -526,7 +531,7 @@
 				"magnitude":"18.36",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"3"
 			},
 			{
 				"time":"2457985.5094",
@@ -625,7 +630,7 @@
 				"magnitude":"18.38",
 				"system":"AB",
 				"u_time":"JD",
-				"source":"1"
+				"source":"3"
 			},
 			{
 				"time":"2457986.5013",
@@ -1044,6 +1049,400 @@
 				"system":"AB",
 				"u_time":"JD",
 				"source":"1"
+			},
+			{
+				"time":"2457983.518251",
+				"band":"i",
+				"e_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.47",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457983.518251",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.33",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457983.518251",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.15",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457983.518251",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.08",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457983.559977",
+				"band":"r",
+				"e_magnitude":"0.01",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.34",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457983.559977",
+				"band":"i",
+				"e_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.51",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457983.559977",
+				"band":"z",
+				"e_upper_magnitude":"0.03",
+				"e_lower_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.59",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457983.559977",
+				"band":"B",
+				"e_upper_magnitude":"0.03",
+				"e_lower_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.63",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457983.559977",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.35",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457983.559977",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.17",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457983.559977",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.12",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457984.491397",
+				"band":"g",
+				"e_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"18.64",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457984.491397",
+				"band":"r",
+				"e_magnitude":"0.01",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.92",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457984.491397",
+				"band":"i",
+				"e_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.78",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457984.491397",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"18.18",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457984.491397",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.67",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457984.491397",
+				"band":"I",
+				"e_upper_magnitude":"0.03",
+				"e_lower_magnitude":"0.02",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.31",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457985.518368",
+				"band":"r",
+				"e_upper_magnitude":"0.04",
+				"e_lower_magnitude":"0.05",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"18.98",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457985.518368",
+				"band":"V",
+				"e_upper_magnitude":"0.07",
+				"e_lower_magnitude":"0.08",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"19.49",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457985.518368",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"18.57",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457985.518368",
+				"band":"I",
+				"e_magnitude":"0.04",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"17.82",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457986.490193",
+				"band":"r",
+				"e_magnitude":"0.05",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"19.88",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457986.490193",
+				"band":"i",
+				"e_magnitude":"0.04",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"18.91",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457986.490193",
+				"band":"V",
+				"e_magnitude":"0.08",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"20.41",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457986.490193",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"19.35",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457986.490193",
+				"band":"I",
+				"e_magnitude":"0.04",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"18.26",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457987.535112",
+				"band":"r",
+				"e_upper_magnitude":"0.14",
+				"e_lower_magnitude":"0.12",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"21.00",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457987.535112",
+				"band":"i",
+				"e_magnitude":"0.04",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"19.43",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457987.535112",
+				"band":"z",
+				"e_magnitude":"0.08",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"18.75",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457987.535112",
+				"band":"V",
+				"e_upper_magnitude":"0.22",
+				"e_lower_magnitude":"0.17",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"21.83",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457987.535112",
+				"band":"R",
+				"e_upper_magnitude":"0.09",
+				"e_lower_magnitude":"0.07",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"20.19",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457987.535112",
+				"band":"I",
+				"e_magnitude":"0.04",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"18.67",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457990.481846",
+				"band":"i",
+				"e_magnitude":"0.20",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"21.44",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457990.481846",
+				"band":"z",
+				"e_magnitude":"0.07",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"19.91",
+				"system":"AB",
+				"u_time":"JD",
+				"source":"3"
+			},
+			{
+				"time":"2457990.481846",
+				"band":"I",
+				"e_upper_magnitude":"0.11",
+				"e_lower_magnitude":"0.10",
+				"instrument":"LDSS",
+				"telescope":"Magellan",
+				"magnitude":"20.37",
+				"system":"Vega",
+				"u_time":"JD",
+				"source":"3"
 			}
 		]
 	}
